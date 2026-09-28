@@ -23,7 +23,7 @@
 ## > Languages & Tools
 
 <p>
-  Java &nbsp; // &nbsp; Git &nbsp; // &nbsp; GitHub
+  Java &nbsp; // &nbsp; Git &nbsp; // &nbsp; GitHub // &nbsp; Python // &nbsp; C/C++
 </p>
 
 ---
