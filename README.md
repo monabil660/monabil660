@@ -1,16 +1,65 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/banner.png" width="100%" />
+</p>
 
-<!--
-**monabil660/monabil660** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Liban! ^_^</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Computer Science Student // Learning, building, and figuring things out :)
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## > About Me
+
+- Computer Science student
+- Currently learning Java
+- Interested in software development and web development
+- Building projects and improving my programming skills
+- Currently working on my CS portfolio ^_^
+
+---
+
+## > Languages & Tools
+
+<p>
+  Java &nbsp; // &nbsp; Git &nbsp; // &nbsp; GitHub
+</p>
+
+---
+
+## > Currently Learning
+
+```text
+Python                [########--]
+C/C++                 [########--]
+Java                  [########--]
+Object-Oriented Prog. [######----]
+Git & GitHub          [#####-----]
+Web Development       [###-------]
+```
+
+---
+
+## > Projects
+
+### // Projects loading... :)
+
+I'm currently building up my project portfolio.
+
+More coming soon ^_^
+
+---
+
+## > Connect
+
+```text
+GitHub    // monabil660
+Portfolio // coming soon...
+```
+
+---
+
+<p align="center">
+  Thanks for stopping by ^_^
+</p>
